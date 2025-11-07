@@ -2,8 +2,8 @@
 
 Welcome to the complete source code workspace for the ROS 2 Jazzy Robotics Course. This repository contains a series of ROS 2 packages that guide you from the foundational concepts of ROS 2 to building, simulating, and controlling a robot.
 
-![Robot Simulation](images\sim.png)
-*(A placeholder image. You can replace this with a screenshot of your own robot in action!)*
+![Robot Simulation](images/sim.png)
+**Robot in action**
 
 ---
 
