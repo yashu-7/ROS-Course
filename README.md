@@ -52,6 +52,7 @@ The foundational package for learning.
     -   `grayscale_server.py` & `grayscale_client.py`: A client/server pair using our custom `RGBToGrayscale` service.
 -   **Launch:**
     -   `control.launch.py`: Starts TurtleSim and the publisher node together.
+    ![control](images/control.png)
 
 ### `tutorial_interfaces`
 The blueprint package for our custom data types.
@@ -68,6 +69,8 @@ The primary robot simulation package.
 -   **`config/`**: Contains `ros_gz_bridge.yaml`, which maps Gazebo topics (like Lidar and camera data) to ROS 2 topics.
 
 ---
+![Hardware](images/hardware.png)
+**Hardware Integration**
 
 ## 📋 Prerequisites
 
